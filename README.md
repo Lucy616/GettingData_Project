@@ -4,7 +4,7 @@ The repositoray  includes the following files:
 =========================================
 - 'README.txt': It explains how all of the scripts work and how they are connected
 - 'CodeBook': It explains the dataset and variables. 
-- 'Human Activity Recognition Summary Using Smartphones Dataset' : 
+- 'Human Activity Recognition Summary Using Smartphones Dataset' (Data is upload through Coursera Website) : 
     The summary dataset contains the training and test datasets of the original 'Human Activity Recognition Using Smartphones Dataset'
 - 'run_analysis.R' : This script does the following. 
     STEP 1: Import the original data
